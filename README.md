@@ -22,7 +22,7 @@ The objective of the game is to destroy all of the opposing players' ships.
 This project combines **software** and **hardware** to simulate Battleships:
 
 - **Software** — acts as my layout grid and contains the locations of my ships using row and column coordinates
-- **Hardware** — acts as my opponents targeting grid, in other words, shots made using the hardware are made against my own ships. Consists of a 7-segment display and red LED for output and a 4-dip physical switch allowing for 16 distinct combinations for input. Pictures included in [Hardware Document](./Hardware Document.pdf)
+- **Hardware** — acts as my opponents targeting grid, in other words, shots made using the hardware are made against my own ships. Consists of a 7-segment display and red LED for output and a 4-dip physical switch allowing for 16 distinct combinations for input. Pictures included in [Hardware Document](./Hardware%20Document.pdf)
 
 ---
 
