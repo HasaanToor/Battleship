@@ -1,6 +1,6 @@
 # Battleships
 
-A project consisting of a hardware-software hybrid implementation of the classic two-player strategy guessing game.
+A project consisting of a hardware-software hybrid implementation of the classic two-player strategy guessing game, built in C on a **STM32F103RB** (Cortex-M3) micro-controller using the Keil µVision IDE.
 
 ---
 
